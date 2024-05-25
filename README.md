@@ -13,7 +13,7 @@ Detailed descriptions of the variables in each dataset are available in the"comm
 
 **commute_multinomial.csv:** This dataset includes data on commuting choices duringthe spring season, when weather conditions allow for additional options. Students canchoose from four commuting modes: driving a car, taking a bus, biking, or walking. Thisdataset will aid the university in planning for car parking, bike rack availability, and bustransportation during the spring. Additionally, the university is considering adjustmentsto bus routes and seeks to understand how these changes might influence students'commuting decisions.
 
-**Methodology:**
+# Methodology:
 
 The methodology employed in this project encompasses a variety of modeling approaches to predict commuting choices for graduate students, thereby providing valuable insights into the factors influencing commuting behavior. By utilizing multiple estimation techniques, the project aims to offer a comprehensive understanding of commuting behavior and demonstrate the application of different methodologies in data science.
 
