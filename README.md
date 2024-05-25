@@ -1,7 +1,8 @@
 # Analyzing-and-Predicting-Commuting-Choices-of-Graduate-Students
 
 # Objective
-We are analyzing the commuting preferences of graduate students during the winter seasonwhen only driving or taking the bus are feasible options due to severe weather conditions.This study will assist the university in optimizing parking and bus transportation needsduring the winter months.
+We are analyzing the commuting preferences of graduate students during the winter seasonwhen only driving or taking the bus are feasible options due to severe weather conditions.This study will assist the university in optimizing parking and bus transportation needsduring the winter months. 
+
 Additionally, we are investigating the commuting choices of graduate students in the spring,when biking and walking become viable alternatives. This research will support theuniversity in planning for car parking, bike rack availability, and bus transportation during thespring season. Moreover, the university is considering adjustments to bus routes and aimsto understand how these changes may influence students' commuting decisions.
 
 # Data:
